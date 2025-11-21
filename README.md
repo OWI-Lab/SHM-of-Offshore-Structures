@@ -1,6 +1,6 @@
-# SHM in Offshore Structures Workshop
+# SHM of Offshore Structures Workshop
 
-This repository contains a **Python notebook and supporting scripts** developed for the **SHM in Offshore Structures Workshop** on fatigue analysis. It is designed to familiarize users with:  
+This repository contains a **Python notebook and supporting scripts** developed for the **SHM of Offshore Structures Workshop** on fatigue analysis. It is designed to familiarize users with:  
 
 - **Integration with the OWI metadatabase**: Accessing geometric and fatigue-related information through a Python API.  
 - **Material definitions**: Assigning material properties relevant for fatigue calculations.  
